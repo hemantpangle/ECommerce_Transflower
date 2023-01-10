@@ -1,0 +1,12 @@
+E:\Day5\ECommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\Day5\ECommerce\BOL\bin\Debug\net7.0\BOL.dll
+E:\Day5\ECommerce\BOL\bin\Debug\net7.0\BOL.pdb
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.dll
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\BOL.pdb
+E:\Day5\ECommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

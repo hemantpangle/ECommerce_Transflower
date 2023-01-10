@@ -1,0 +1,17 @@
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\BLL.dll
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\BLL.pdb
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\BOL.dll
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\DAL.dll
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\BOL.pdb
+E:\Day5\ECommerce\BLL\bin\Debug\net7.0\DAL.pdb
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.dll
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\BLL.pdb
+E:\Day5\ECommerce\BLL\obj\Debug\net7.0\ref\BLL.dll
